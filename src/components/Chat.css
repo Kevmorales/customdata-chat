@@ -1,0 +1,27 @@
+/* components/Chat.css */
+.chat-window {
+    border: 1px solid #ccc;
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 10px;
+  }
+  
+  .chat-messages {
+    height: 300px;
+    overflow-y: auto;
+    margin-bottom: 10px;
+  }
+  
+  .chat-input {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .chat-input input {
+    width: 80%;
+  }
+  
+  .chat-input button {
+    width: 15%;
+  }
+  
