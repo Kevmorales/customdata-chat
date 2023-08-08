@@ -12,8 +12,8 @@ This project is a Chatbot built using React, TypeScript, and OpenAI's API. The u
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
-   cd YOUR_REPOSITORY_NAME
+   git clone https://github.com/Kevmorales/customdata-chatE.git
+   cd customdata-chat
 
 2. **Install Dependencies**:
 ```bash
